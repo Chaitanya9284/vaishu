@@ -1,4 +1,3 @@
 # vaishu
-1st repository
-created for tp
-auther- chaitanya shinde
+1st repository.
+Auther- chaitanya shinde
